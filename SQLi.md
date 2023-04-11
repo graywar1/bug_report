@@ -1,8 +1,4 @@
-# Sales Tracker Management System v1.0 has SQL injection
-
 BUG_Author:Peony
-
-Website source address:https://www.sourcecodester.com/php/16061/sales-tracker-management-system-using-php-free-source-code.html
 
 Vulnerability File: /php-sts/admin/products/manage_product.php
 
